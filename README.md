@@ -45,7 +45,8 @@ src/
 
 ```bash
 # Clone the repo or extract the provided ZIP
-cd Assignment
+cd summarizer_api
+
 
 # Install dependencies
 npm install
